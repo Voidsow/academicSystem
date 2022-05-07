@@ -1,2 +1,2 @@
 # academicSystem
-a simple practice for object oriented style in cpp
+a simple practice for object oriented cpp
